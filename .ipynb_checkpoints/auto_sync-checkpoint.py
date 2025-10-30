@@ -5,7 +5,8 @@ from watchdog.events import FileSystemEventHandler
 import threading
 import os
 
-WATCH_DIR = r"C:\Users\vyshn\Statistics"
+WATCH_DIR = os.path.dirname(os.path.abspath(__file__))
+os.chdir(WATCH_DIR)
 DEBOUNCE_SECONDS = 5
 COMMIT_MESSAGE = "auto-sync: updates"
 
