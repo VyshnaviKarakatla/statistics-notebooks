@@ -1,0 +1,6 @@
+empno,ename,job,sal,deptno
+1001,raju,dev,1200,10
+102,ravi,test,1000,20
+103,kumar,saled,1500,30
+1004,venkat,saled,1600,30
+1005,suri,test,1200,NA
