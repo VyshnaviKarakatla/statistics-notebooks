@@ -1,0 +1,21 @@
+emp_id,emp_name,job_title,salary,hire_date,dept_id,manager_id
+101,John Mathews,General Manager,90000.0,2017-03-10,50,
+102,Priya Sharma,HR Manager,75000.0,2018-06-21,10,101.0
+103,Ravi Kumar,Finance Manager,72000.0,2019-02-11,20,101.0
+104,Anita Singh,IT Manager,85000.0,2018-11-05,30,101.0
+105,Karan Patel,Sales Manager,78000.0,2019-07-17,40,101.0
+106,Deepa Nair,HR Executive,42000.0,2020-03-14,10,102.0
+107,Vikas Reddy,Recruiter,38000.0,2021-01-09,10,102.0
+108,Amit Verma,Accountant,45000.0,2020-09-22,20,103.0
+109,Sonal Gupta,Financial Analyst,52000.0,2021-06-13,20,103.0
+110,Neha Mehta,IT Developer,61000.0,2020-08-18,30,104.0
+111,Arjun Das,Software Engineer,64000.0,2022-02-20,30,104.0
+112,Pooja Iyer,Data Analyst,58000.0,2021-10-27,30,104.0
+113,Ramesh Rao,Sales Executive,47000.0,2022-05-15,40,105.0
+114,Sneha Joshi,Sales Representative,43000.0,2023-01-05,40,105.0
+115,Dev Patel,Sales Intern,25000.0,2024-04-12,40,105.0
+116,Tina George,Operations Lead,67000.0,2020-12-01,50,101.0
+117,Rahul Roy,Operations Executive,45000.0,2021-08-09,50,116.0
+118,Meena Paul,Logistics Officer,42000.0,2022-07-19,50,116.0
+119,Abhishek Yadav,Clerk,32000.0,2023-03-28,20,103.0
+120,Lakshmi Menon,Assistant HR,37000.0,2024-02-12,10,102.0
